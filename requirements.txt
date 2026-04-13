@@ -1,0 +1,6 @@
+gymnasium>=0.29.0
+gymnasium[classic-control]
+gymnasium[box2d]
+torch>=2.1.0
+numpy>=1.24.0
+matplotlib>=3.7.0
